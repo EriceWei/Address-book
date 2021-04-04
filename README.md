@@ -1,4 +1,4 @@
-[通讯录管理系统.txt](https://github.com/EriceWei/Address-book/files/6254586/default.txt)
+
 1.系统需求
 通讯录是一个可以记录亲人，好友信息的工具
 本教程主要利用c++来实现一个通讯录管理系统
